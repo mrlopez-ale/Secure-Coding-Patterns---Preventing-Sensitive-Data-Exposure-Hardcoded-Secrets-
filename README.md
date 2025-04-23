@@ -1,5 +1,4 @@
-# Secure Coding - Preventing Sensitive Data Exposure (Hardcoded Secrets)
-
+# Playbook: Secure Coding Patterns - Preventing Sensitive Data Exposure (Hardcoded Secrets)
 Linkedin: https://www.linkedin.com/in/mr-lopeza/
 
 ## Objective
