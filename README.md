@@ -1,4 +1,4 @@
-# Secure Coding Patterns - Preventing Sensitive Data Exposure (Hardcoded Secrets)
+# Secure Coding - Preventing Sensitive Data Exposure (Hardcoded Secrets)
 
 This playbook provides comprehensive guidance on understanding, identifying, preventing, and remediating the security risks associated with hardcoded secrets in source code and version control.
 
