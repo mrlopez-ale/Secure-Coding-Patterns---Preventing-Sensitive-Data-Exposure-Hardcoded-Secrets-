@@ -1,4 +1,5 @@
 # Secure Coding Patterns - Preventing Sensitive Data Exposure (Hardcoded Secrets)
+
 Objective: 
 Understand: Recognize the critical security risks posed by hardcoded secrets.
 Identify: Learn effective methods and tools to detect secrets in code and commit history.
